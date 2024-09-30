@@ -50,7 +50,7 @@ This study supports the hypothesis that **recency can improve the effectiveness*
 
 ### Contact
 For further details or collaboration:
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- Email: [juancarlos@lucidity.work](mailto:juancarlos@lucidity.work)
 - GitHub: [CodeEnchilada](https://github.com/CodeEnchilada)
 
 ---
