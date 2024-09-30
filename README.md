@@ -32,6 +32,22 @@ This dissertation explores how **recency** affects the effectiveness of recognit
 
 ---
 
+## Stata Code and Data
+
+### Stata Code:
+The Stata `.do` file used for the analysis, including regression models and hypothesis testing, can be found [here](https://www.dropbox.com/scl/fi/8p9b2rj479q5xxm98foqk/18080-Dissertation-Do-File-FINAL.do?rlkey=15ywf6qajuuzwiwivx3tx1tyj&st=v2hr9uzq&dl=0).
+
+### Data File:
+The `.dta` file containing the dataset used for the analysis can be found [here](https://www.dropbox.com/scl/fi/zgv46wuwb4hk2k8fuulqi/18080-Dissertation-File-FINAL.dta?rlkey=jhzu39l42nwk2dc8kgltaqatv&st=iaxrhl0s&dl=0).
+
+---
+
+## Full Dissertation
+
+You can read the full dissertation [here](https://www.dropbox.com/scl/fi/vybf2cqcvpkf3xk7yck1f/18080-PB413E-Dissertation-FINAL.pdf?rlkey=d3uq06kxx7zmpmwsizoeokv7z&st=zk4ctlzi&dl=0).
+
+---
+
 ## Conclusion
 
 This study supports the hypothesis that **recency can improve the effectiveness** of recognition programs in organizational settings, contributing to accelerated **behavioral change**.
@@ -51,8 +67,4 @@ This study supports the hypothesis that **recency can improve the effectiveness*
 ### Contact
 For further details or collaboration:
 - Email: [juancarlos@lucidity.work](mailto:juancarlos@lucidity.work)
-- GitHub: [CodeEnchilada](https://github.com/CodeEnchilada)
-
----
-
-This Markdown file layout will result in a clean, organized, and easy-to-read presentation of your dissertation's main findings, using headings, bullet points, and key statistics to engage readers effectively. You can copy-paste this directly into your GitHub `README.md` or any Markdown-supported platform.
+- GitHub: [PatternsOfChange](https://github.com/PatternsOfChange)
