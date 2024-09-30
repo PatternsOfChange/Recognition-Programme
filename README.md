@@ -28,6 +28,54 @@ This dissertation explores how **recency** affects the effectiveness of recognit
   
   > **Statistical Significance**: This effect was **marginally significant** (p=0.048).
 
+Below is a summary of the key statistical results from the analysis:
+
+<table style="width:80%; border: 1px solid black; border-collapse: collapse;">
+  <tr style="background-color: #f2f2f2; text-align: center;">
+    <th style="padding: 10px; border: 1px solid black;">Group</th>
+    <th style="padding: 10px; border: 1px solid black;">Obs.</th>
+    <th style="padding: 10px; border: 1px solid black;">Mean</th>
+    <th style="padding: 10px; border: 1px solid black;">Std. Error</th>
+    <th style="padding: 10px; border: 1px solid black;">Std. Deviation</th>
+    <th style="padding: 10px; border: 1px solid black;">95% Conf. Interval</th>
+  </tr>
+  <tr style="text-align: center;">
+    <td style="padding: 10px; border: 1px solid black;">Control</td>
+    <td style="padding: 10px; border: 1px solid black;">116</td>
+    <td style="padding: 10px; border: 1px solid black;">54.14</td>
+    <td style="padding: 10px; border: 1px solid black;">2.88</td>
+    <td style="padding: 10px; border: 1px solid black;">31.03</td>
+    <td style="padding: 10px; border: 1px solid black;">48.27 - 59.84</td>
+  </tr>
+  <tr style="text-align: center;">
+    <td style="padding: 10px; border: 1px solid black;">Treatment</td>
+    <td style="padding: 10px; border: 1px solid black;">95</td>
+    <td style="padding: 10px; border: 1px solid black;">62.50</td>
+    <td style="padding: 10px; border: 1px solid black;">3.04</td>
+    <td style="padding: 10px; border: 1px solid black;">29.65</td>
+    <td style="padding: 10px; border: 1px solid black;">56.45 - 68.54</td>
+  </tr>
+  <tr style="text-align: center;">
+    <td style="padding: 10px; border: 1px solid black;">Combined</td>
+    <td style="padding: 10px; border: 1px solid black;">221</td>
+    <td style="padding: 10px; border: 1px solid black;">57.90</td>
+    <td style="padding: 10px; border: 1px solid black;">2.11</td>
+    <td style="padding: 10px; border: 1px solid black;">30.63</td>
+    <td style="padding: 10px; border: 1px solid black;">53.74 - 62.06</td>
+  </tr>
+  <tr style="text-align: center;">
+    <td style="padding: 10px; border: 1px solid black;">Difference</td>
+    <td style="padding: 10px; border: 1px solid black;">-8.36</td>
+    <td style="padding: 10px; border: 1px solid black;">4.21</td>
+    <td colspan="3" style="padding: 10px; border: 1px solid black;">[-16.66, -0.063]</td>
+  </tr>
+  <tr style="text-align: center;">
+    <td colspan="6" style="padding: 10px; border: 1px solid black; text-align: left;">
+      <strong>Results:</strong> T = -1.98<br>Degrees of freedom = 209<br>P>|t| = 0.0483
+    </td>
+  </tr>
+</table>
+
 - **Covariate Adjustment**: After controlling for relevant covariates, the effect was reduced to **8.04%** with **statistical significance** (p=0.05).
 
 ---
