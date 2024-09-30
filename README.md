@@ -1,4 +1,4 @@
-# Behavioral Change in Organizations: Their effectiveness and the Role of Reminders
+# Behavioral Change in Organizations: The effectiveness of Recognition Programmes and the Role of Reminders
  
 ## Overview
 This dissertation explores how **recency** affects the effectiveness of recognition programs in a private institution. The research examines whether exposure to recent communications about a recognition program improves the adoption of desired behaviors.
