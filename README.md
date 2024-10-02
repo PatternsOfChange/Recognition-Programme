@@ -1,11 +1,11 @@
 # Behavioral Change in Organizations: The effectiveness of Recognition Programmes and the Role of Reminders
  
 ## Overview
-This dissertation explores how **recency** affects the effectiveness of recognition programs in a private institution. The research examines whether exposure to recent communications about a recognition program improves the adoption of desired behaviors.
+This dissertation explores how effective are recognition programes and whether **reminders** affects the impact in a private institution. The research examines whether exposure to recent communications about a recognition program improves the adoption of desired behaviors.
 
 ### Key Objectives:
-- **Measure the impact** of recency on staff behavior within teams.
-- **Test the hypothesis** that recency increases the effectiveness of recognition programs.
+- **Measure the impact** Does recognition programmes leads to changes in behaviour at firms?  Can recognition programmes lead to Scrum Masters refining team features before start of development cycle?
+- **Test the hypothesis** that recognition programmes are effective and whether reminders increases the effectiveness of recognition programs.
 - **Quantitative Analysis** using randomized controlled trials to measure results.
 
 ---
@@ -18,13 +18,13 @@ This dissertation explores how **recency** affects the effectiveness of recognit
 
 ### Tools Used:
 - **Quantitative Methods**: Regression analysis, hypothesis testing (p-values).
-- **Software**: Stata for data analysis and result validation.
+- **Software**: R for data preparation and Stata for data analysis and result validation.
 
 ---
 
 ## Main Findings
 
-- **Impact on Behavior**: The treatment group exhibited an **8.3% increase** in the adoption of behaviors promoted by the recognition program compared to the control group.
+- **Impact on Behavior**: The treatment group exhibited an **8.3% increase** in the behaviour of the study (registering project features) among those who received a reminder, compared to the control group.
   
   > **Statistical Significance**: This effect was **marginally significant** (p=0.048).
 
@@ -76,7 +76,7 @@ Below is a summary of the key statistical results from the analysis:
   </tr>
 </table>
 
-- **Covariate Adjustment**: After controlling for relevant covariates, the effect was reduced to **8.04%** with **statistical significance** (p=0.05).
+- **Covariate Adjustment**: After controlling for relevant covariates such as team size and maturity, the effect was reduced to **8.04%** with **statistical significance** (p=0.05).
 
 ---
 
